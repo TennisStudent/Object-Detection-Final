@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#back
+{
+    font-size: 24px;
+}
+.heading
+{
+    font-size: 24px;
+    width: 100%;
+    margin-top: 0px;
+    font-family: cursive;
+    margin-bottom: 200px;
+}
+#status
+{
+font-size: 18px;
+}
+#number_of_objects
+{
+    font-size: 18px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
